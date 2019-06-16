@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "974f0f581a0592a676cf7e7cb8037404",
-    "url": "./static/media/HTTP&Networks.974f0f58.md"
+    "revision": "df90c0ed454eecc43581a7294ab7499c",
+    "url": "./static/media/About_Me.df90c0ed.md"
   },
   {
-    "revision": "69ba48519a5208afb9ff",
-    "url": "./static/css/main.1ae3ec32.chunk.css"
+    "revision": "edbe877fbfe80134bdf2",
+    "url": "./static/css/main.ab474545.chunk.css"
   },
   {
     "revision": "8c97409f0ee389fe75da",
     "url": "./static/js/runtime~main.d653cc00.js"
   },
   {
-    "revision": "e514e788678ba981b5888d864b00a0dc",
-    "url": "./static/media/Blog_4.e514e788.md"
+    "revision": "aba1139078058b089f323914c1b1a1c7",
+    "url": "./static/media/Blog_6.aba11390.md"
   },
   {
-    "revision": "8ee2270ebfdcf6fbba27",
-    "url": "./static/js/2.6fc0d3b9.chunk.js"
+    "revision": "fbb9bce05f5bf07aca6c",
+    "url": "./static/js/2.c5ebb102.chunk.js"
   },
   {
     "revision": "b7eb78fff4488865cd1131ac2cdcffbb",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "./static/media/HTML&CSS.7e61f3b8.md"
   },
   {
-    "revision": "69ba48519a5208afb9ff",
-    "url": "./static/js/main.641ccdd6.chunk.js"
+    "revision": "974f0f581a0592a676cf7e7cb8037404",
+    "url": "./static/media/HTTP&Networks.974f0f58.md"
   },
   {
-    "revision": "df90c0ed454eecc43581a7294ab7499c",
-    "url": "./static/media/About_Me.df90c0ed.md"
+    "revision": "edbe877fbfe80134bdf2",
+    "url": "./static/js/main.2d1d6874.chunk.js"
   },
   {
     "revision": "c994792bd01a01e5d2ffcc0c0d933545",
@@ -60,11 +60,19 @@ self.__precacheManifest = [
     "url": "./static/media/Blog_3.30b824d4.md"
   },
   {
-    "revision": "8ee2270ebfdcf6fbba27",
-    "url": "./static/css/2.4500ee17.chunk.css"
+    "revision": "e514e788678ba981b5888d864b00a0dc",
+    "url": "./static/media/Blog_4.e514e788.md"
   },
   {
-    "revision": "679fe96146d5f0bc80efbf9f23b98de8",
+    "revision": "388270f4a0eeb2f52b91a1d211e6f06c",
+    "url": "./static/media/Blog_5.388270f4.md"
+  },
+  {
+    "revision": "fbb9bce05f5bf07aca6c",
+    "url": "./static/css/2.b31e1f5c.chunk.css"
+  },
+  {
+    "revision": "5ed7fda3c4b12766a5c5867448e8c414",
     "url": "./index.html"
   }
 ];
